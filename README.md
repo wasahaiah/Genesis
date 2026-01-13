@@ -1,4 +1,4 @@
-![Genesis](imgs/big_text.png)
+![Genesis](imgs/big_text.png) 
 
 ![Teaser](imgs/teaser.png)
 
@@ -214,3 +214,4 @@ If you use Genesis in your research, please consider citing:
   year = {2024},
   url = {https://github.com/Genesis-Embodied-AI/Genesis}
 }
+
